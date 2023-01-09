@@ -1,16 +1,5 @@
 # dicee
+2-player dice app.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots 
+![Screenshot 2023-01-09 221009](https://user-images.githubusercontent.com/93861256/211360648-a2cd9bee-7f13-4c0f-bb27-0ed0c58931a4.png)
